@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @muppinesh
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on DevOps
 
 <!---
 muppinesh/muppinesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
